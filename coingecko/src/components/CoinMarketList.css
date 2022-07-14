@@ -1,0 +1,21 @@
+.container {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    font-size: 15px;
+    color: grey;
+    padding: 30px;
+    background-color: bisque;
+  }
+
+  .coin-wrapper {
+    background-color: azure;
+    padding: 20px;;
+  }
+
+  img {
+    width: 60px;
+  }
+
+  h1 {text-align: center; color: grey;}
